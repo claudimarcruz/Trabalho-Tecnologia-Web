@@ -1,2 +1,2 @@
 # Trabalho Tecnologia Web
- Trabalho em grupo,  criação de um site de carros.
+ Trabalho em grupo, criação de um site de venda de carros.
